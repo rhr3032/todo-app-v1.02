@@ -1,0 +1,29 @@
+{
+  "projectName": "todo-app-v1.02",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "npm",
+  "includeExamples": true,
+  "tailwind": true,
+  "addOnOptions": {},
+  "envVarValues": {},
+  "git": false,
+  "install": true,
+  "routerOnly": false,
+  "version": 1,
+  "framework": "solid",
+  "chosenAddOns": [
+    "eslint",
+    "nitro",
+    "store",
+    "solid-ui",
+    "form",
+    "convex",
+    "better-auth",
+    "sentry",
+    "strapi",
+    "t3env",
+    "tanstack-query",
+    "tanchat"
+  ]
+}
